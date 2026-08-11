@@ -1,4 +1,6 @@
 <div align="center">
+
+<img src="Fondo GitHub.png" width="100% "/>
   
 # Hi there! 👋 I'm Matías Altamirano
 
