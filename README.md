@@ -1,13 +1,5 @@
 <div align="center">
-
 <img src="Fondo GitHub.png" width="100% "/>
-  
-# Hi there! 👋 I'm Matías Altamirano
-
-### Computer Engineer | Software Development • Data • Automation • Cybersecurity
-
-🇨🇱 Rancagua, Chile
-
 </div>
 
 ---
@@ -20,11 +12,11 @@ I enjoy learning new technologies, solving problems, and building practical solu
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools 
 
 **Languages**
 
-JavaScript · TypeScript · Python · Java · C# · C · SQL
+JavaScript · TypeScript · Python · Java · C# · C · Visual Basics
 
 **Development**
 
@@ -41,13 +33,6 @@ Git · GitHub · Docker · Kubernetes · Postman · AWS
 **Data & Microsoft**
 
 Power BI · Power Apps · SharePoint · Microsoft 365
-
----
-
-
-## 🌱 Currently Learning
-
-Python · Data Analytics · Business Intelligence · AI · Cybersecurity
 
 ---
 
